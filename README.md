@@ -2,7 +2,7 @@
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on minecraft plugins/mod
-- 📫 How to reach me discord dhanotboi#6969
+- 📫 How to reach me discord dhanotboi#0001
 
 <!---
 dhanotboi/dhanotboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
